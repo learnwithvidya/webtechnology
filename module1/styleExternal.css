@@ -1,7 +1,11 @@
 h2 {
-			color:blue;
+			color:red;		
 }
 h3 {
 			color: green;
 			font-weight:bold;
+}
+
+p{
+	color:blue;
 }
